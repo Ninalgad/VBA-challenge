@@ -12,3 +12,9 @@
 ├── LICENSE # MIT
 └── README.md # this file
 ```
+## References
+- FormatPercent taken from the [documentation](https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/formatpercent-function)
+Lines: 32, 88, 89
+
+- LongLong was taken from the [documentation](https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/longlong-data-type)
+- Lines: 2
